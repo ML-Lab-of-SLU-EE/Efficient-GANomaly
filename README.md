@@ -11,7 +11,7 @@ This repository contains PyTorch implementation of a competition for malfunction
 ## 1. Installation
 1. First clone the repository
    ```
-   git clone https://github.com/samet-akcay/ganomaly.git
+   git clone https://github.com/ML-Lab-of-SLU-EE/Efficient-GANomaly
    ```
 2. Create the virtual environment via conda
     ```
@@ -27,7 +27,7 @@ This repository contains PyTorch implementation of a competition for malfunction
    pip install --user --requirement requirements.txt
    ```
 ## 2. Contest Problems
-Precisely classify 5 kind of breakdown signals form 3 different working condition, condition0 and condition1 samples are labeled while that condition2 are not, all these samples can be used to train.(The training dataset and testing dataset are all numpy files ended with .npy)
+Precisely classify 5 kind of breakdown signals form 3 different working conditions, condition0 and condition1 samples are labeled while that condition2 are not, all these samples can be used to train.(The training dataset and testing dataset are all numpy files ended with .npy)
 
 
 ## 3. Training
