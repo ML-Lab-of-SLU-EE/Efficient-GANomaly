@@ -7,6 +7,7 @@ This repository contains PyTorch implementation of a competition for malfunction
     - [Installation](#installation)
     - [Contest Problems](#dataset)
     - [Training](#training)
+    - [Results](#results)
     
 ## 1. Installation
 1. First clone the repository
