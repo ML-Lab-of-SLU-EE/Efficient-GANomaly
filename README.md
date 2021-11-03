@@ -5,7 +5,7 @@ This repository contains PyTorch implementation of a competition for malfunction
 ## Table of Contents
 - [GANomaly](#ganomaly)
     - [Installation](#installation)
-    - [Dataset](#dataset)
+    - [Contest Problems](#dataset)
     - [Training](#training)
     
 ## 1. Installation
@@ -44,7 +44,7 @@ Precisely classify 5 kind of breakdown signals form 3 different working conditio
     python train_final.py
     ```
 
-# 4.Results
+## 4.Results
 The testing result is as bellow:
 
 ![](pics/result.png)
